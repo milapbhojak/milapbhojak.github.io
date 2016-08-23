@@ -16,7 +16,7 @@ section {
   height: 15em;
   margin: 0 auto;
   overflow: hidden;
-  background: #2980b9;
+  background: #EDEDED;
   @include border-radius(.5em);
   
   img {
