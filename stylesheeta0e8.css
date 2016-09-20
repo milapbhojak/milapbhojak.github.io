@@ -116,7 +116,7 @@ header.default div.header-wrap {
 
 h1 {
 	clear: both;
-	font-family: "soleil",serif;
+	font-family: "avenir",serif;
 	color: #4d545b;
 	font-size: 3em;
 	padding-bottom: 12px;
@@ -140,7 +140,7 @@ header p.desc {
 	font-size: 1.4em;
 	color: #9ea4aa;
 	font-weight: 300;
-	font-family: "soleil", sans-serif;
+	font-family: "avenir", sans-serif;
 	padding-bottom: 9px;
 	text-align: center;
 	line-height: 1.7;
