@@ -46,7 +46,7 @@ html {
 }
 
 body {
-	background-color: white;
+	background-image: linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
 	-webkit-font-smoothing: antialiased;
 	/*background-image: url(images/pattern-stroke.png);*/
 	background-size: 240px 240px;
